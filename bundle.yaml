@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "Myorganization-workshop-Pankaj-dev-controller"
+description: "CloudBees CI configuration bundle for the Myorganization-workshop-Pankaj dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/myorganization-workshop-pankaj/dev-controller"
+parent: "base"
